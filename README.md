@@ -4,12 +4,11 @@
 
 
 ## I make buildings by day and things for web at night!!
+###I'm a self taught web developer/designer pspecializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to draw and watch anime
 
 
 
