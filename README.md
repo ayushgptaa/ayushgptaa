@@ -28,12 +28,13 @@
 [<img align="left" alt="CSS3" width="30px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" />]
 [<img align="left" alt="CSS3" width="30px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" />]
 [<img align="left" alt="React" width="30px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" />
-[<img align="left" alt="Node.js" width="30px" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" />]
+[<img align="left" alt="Node.js" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" />]
 [<img align="left" alt="MongoDB" width="30px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />]
 [<img align="left" alt="Express.js" width="30px" src="https://cdn.worldvectorlogo.com/logos/express-109.svg" />]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" />]
-<br />
-<br />
+
+<br/>
+<br/>
 
 ---
 
