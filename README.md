@@ -14,8 +14,7 @@
 
 ## Find me around the web :earth_asia: :
 
-[<img align="left" alt="codeSTACKr.com" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/%C3%86toms_-_Earth.svg/750px-%C3%86toms_-_Earth.svg.png" />][website] 
-<br/>
+[<img align="left" alt="codeSTACKr.com" width="25px" src="http://kabramkrafts.com/wp-content/uploads/2017/04/earth.svg" />][website] 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="25px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin] 
 [<img align="left" alt="codeSTACKr | Instagram" width="25px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" />][instagram] 
 
@@ -37,7 +36,7 @@
 
 ---
 
-[website]: https://codeSTACKr.com
+[website]: https://webdevayush.herokuapp.com/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
