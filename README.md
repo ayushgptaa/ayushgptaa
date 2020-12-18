@@ -35,7 +35,6 @@
 
 
 
----
 
 [website]: https://webdevayush.herokuapp.com/
 [instagram]: https://www.instagram.com/_ayushguptaa/
