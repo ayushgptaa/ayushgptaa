@@ -3,7 +3,7 @@
 
 
 
-### I make building by day and things for web at night!!!
+### I make buildings by day and things for web at night!!!
 
 - 🌱 I’m currently learning everything 
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -17,7 +17,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="25px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin] 
 [<img align="left" alt="codeSTACKr | Instagram" width="25px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" />][instagram] 
 
-<br />
 <br />
 
 ### Languages and Tools:
