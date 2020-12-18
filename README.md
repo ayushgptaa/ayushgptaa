@@ -4,7 +4,7 @@
 
 
 ## I make buildings by day and things for web at night!!
-###I'm a self taught web developer/designer pspecializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
+### I'm a self taught web developer/designer pspecializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
