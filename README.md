@@ -14,9 +14,10 @@
 
 ## Find me around the web :earth_asia: :
 
--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] website
--[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] Linkdin
--[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" />][instagram] Instagram
+[<img align="left" alt="codeSTACKr.com" width="25px" src="https://www.creativefabrica.com/wp-content/uploads/2019/10/25/Erde-580x386.jpg" />][website] 
+<br/>
+[<img align="left" alt="codeSTACKr | LinkedIn" width="25px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin] 
+[<img align="left" alt="codeSTACKr | Instagram" width="25px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" />][instagram] 
 
 <br />
 
