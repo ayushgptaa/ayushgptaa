@@ -14,7 +14,7 @@
 
 ## Find me around the web :earth_asia: :
 
-[<img align="left" alt="codeSTACKr.com" width="25px" src="https://www.creativefabrica.com/wp-content/uploads/2019/10/25/Erde-580x386.jpg" />][website] 
+[<img align="left" alt="codeSTACKr.com" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/%C3%86toms_-_Earth.svg/750px-%C3%86toms_-_Earth.svg.png" />][website] 
 <br/>
 [<img align="left" alt="codeSTACKr | LinkedIn" width="25px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin] 
 [<img align="left" alt="codeSTACKr | Instagram" width="25px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" />][instagram] 
