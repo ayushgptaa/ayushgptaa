@@ -3,7 +3,6 @@
 
 
 
-## I make buildings by day and things for web at night!!
 ### I'm a self taught web developer/designer pspecializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
 
 - 🌱 I’m currently learning everything 
@@ -18,7 +17,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="25px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin] 
 [<img align="left" alt="codeSTACKr | Instagram" width="25px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" />][instagram] 
 
-<br />
 <br />
 <br />
 
