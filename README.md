@@ -19,6 +19,8 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="25px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" />][instagram] 
 
 <br />
+<br />
+<br />
 
 ### Languages and Tools:
 
