@@ -27,11 +27,11 @@
 [<img align="left" alt="CSS3" width="20px" src="https://cdn.worldvectorlogo.com/logos/css-5.svg" />]
 [<img align="left" alt="CSS3" width="30px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" />]
 [<img align="left" alt="CSS3" width="30px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="React" width="30px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" />
+[<img align="left" alt="Node.js" width="30px" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" />]
+[<img align="left" alt="MongoDB" width="30px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />]
+[<img align="left" alt="Express.js" width="30px" src="https://cdn.worldvectorlogo.com/logos/express-109.svg" />]
+[<img align="left" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" />]
 <br />
 <br />
 
