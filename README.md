@@ -30,8 +30,9 @@
 <img align="left" alt="React" width="30px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" />
 <img align="left" alt="Node.js" width="30px"  src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />
 <img align="left" alt="MongoDB" width="35px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
-<img align="left" alt="MongoDB" width="33px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
-<img align="left" alt="MongoDB" width="33px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
+<img align="left" alt="Github" width="33px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
+<br/>
+<br/>
 
 
 
