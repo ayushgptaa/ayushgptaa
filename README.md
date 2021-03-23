@@ -22,7 +22,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"  />
-<img align="left" alt="HTML5" width="22px" src="https://cdn.worldvectorlogo.com/logos/html-5.svg" />
+<img align="left" alt="HTML5" width="22px" src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" />
 <img align="left" alt="CSS3" width="22px" src="https://cdn.worldvectorlogo.com/logos/css-5.svg" />
 <img align="left" alt="Scss" width="34x" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" />
 <img align="left" alt="Javascript" width="30px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" />
