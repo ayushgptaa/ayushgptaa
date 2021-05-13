@@ -15,7 +15,8 @@
 
 [<img align="left" alt="codeSTACKr.com" width="25px" src="http://kabramkrafts.com/wp-content/uploads/2017/04/earth.svg" />][website] 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="25px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin] 
-[<img align="left" alt="codeSTACKr | Instagram" width="25px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" />][instagram] 
+[<img align="left" alt="codeSTACKr | Instagram" width="25px" src="https://cdn.cdnlogo.com/logos/i/21/instagram-glyph.svg" />][instagram] 
+
 
 <br />
 
