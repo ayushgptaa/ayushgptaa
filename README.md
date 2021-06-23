@@ -13,7 +13,7 @@
 
 ## Find me around the web :earth_asia: :
 
-[<img align="left" alt="codeSTACKr.com" width="25px" src="http://kabramkrafts.com/wp-content/uploads/2017/04/earth.svg" />][website] 
+[<img align="left" alt="codeSTACKr.com" width="25px" src="https://img.icons8.com/color/96/000000/globe--v1.png"/>][website] 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://img.icons8.com/color/96/000000/linkedin.png" />][linkedin] 
 [<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://img.icons8.com/color/96/000000/instagram-new--v1.png" />][instagram] 
 [<img align="left" alt="codeSTACKr | Instagram" width="30px"  src="https://img.icons8.com/color/96/000000/twitter.png" />][twitter] 
