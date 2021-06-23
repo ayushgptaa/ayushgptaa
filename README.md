@@ -6,7 +6,7 @@
 ### I make buildings by day and things for web at night!!!
 
 - 🌱 I’m currently learning React js
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and watch anime
 
 
