@@ -11,7 +11,7 @@
 
 
 
-## Find me around the web :earth_asia: :
+## Find me around the web:
 
 [<img align="left" alt="codeSTACKr.com" width="30px" src="https://img.icons8.com/color/96/000000/globe--v1.png"/>][website] 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://img.icons8.com/color/96/000000/linkedin.png" />][linkedin] 
