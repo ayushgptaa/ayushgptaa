@@ -21,7 +21,7 @@
 <br />
 
 
-[website]: https://webdevayush.herokuapp.com/
+[website]: https://ayushguptaa.com/
 [instagram]: https://www.instagram.com/_ayushguptaa/
 [linkedin]: https://www.linkedin.com/in/ayush-gupta-54a855139/
 [twitter]:https://twitter.com/_ayushag/
