@@ -22,7 +22,7 @@
 
 
 [website]: https://ayushguptaa.com/
-[instagram]: https://www.instagram.com/_ayushguptaa/
+[instagram]: https://www.instagram.com/ayushgptaa/
 [linkedin]: https://www.linkedin.com/in/ayush-gupta-54a855139/
-[twitter]:https://twitter.com/_ayushag/
+[twitter]:https://twitter.com/ayusgptaa/
 
