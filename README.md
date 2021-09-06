@@ -3,11 +3,11 @@
 
 
 
-### I make buildings by day and things for web at night!!!
+### I love to build things for web 🕸
 
 - 🌱 I’m currently learning React js
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and watch anime
+- ⚡ Fun fact: I love to sketch and watch anime
 
 
 
