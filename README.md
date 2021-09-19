@@ -3,11 +3,7 @@
 
 
 
-### I love to build things for web 🕸
-
-- 🌱 I’m currently learning React js
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to sketch and watch anime
+### I love to make things for web 🕸
 
 
 
