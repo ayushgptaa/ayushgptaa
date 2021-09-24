@@ -1,3 +1,3 @@
  
-#  You Want Forgiveness? Get Religion 🕷
+#  You Want Forgiveness? Get Religion
 
