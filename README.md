@@ -6,4 +6,4 @@ Currently learning interactive web animations 📚
 
 Open-source advocate, always looking to work on interesting projects🌱
 
-Know more about me here at [ayushgupta.dev](https://ayushgupa.dev) 🚀
+Know more about me here at [ayushgupta.dev](https://ayushgupta.dev) 🚀
