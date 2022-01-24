@@ -1,15 +1,8 @@
-# **Ayush** this side 👨‍💻
 
-### I love to make things for web 🕸
+Hi I'm Ayush 
+A Web enthusiast who loves  🚀
+Some of the technologies I work with are #JavaScript, #React.js, #NextJS, #HTML, #CSS3, #Sass, and #Node.js 💻
+Currently learning interactive web animations 📚
+Open-source advocate, always looking to work on interesting projects🌱 
+Know more about me here at ayushgupa.dev
 
-## Find me around the web:
-
-[<img align="left" alt="codeSTACKr.com" width="30px" src="https://img.icons8.com/color/96/000000/globe--v1.png"/>][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://img.icons8.com/color/96/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="30px"  src="https://img.icons8.com/color/96/000000/twitter.png" />][twitter]
-
-<br />
-
-[website]: https://ayushguptaa.com/
-[linkedin]: https://www.linkedin.com/in/ayush-gupta-54a855139/
-[twitter]: https://twitter.com/ayushgptaa/
