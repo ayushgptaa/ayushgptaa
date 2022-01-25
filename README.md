@@ -4,6 +4,6 @@ Some of the technologies I work with are JavaScript, React.js, NextJS, HTML, CSS
 
 Currently learning interactive web animations 📚
 
-Open-source advocate, always looking to work on interesting projects🌱
+Open-source advocate, always looking to contribute to interesting projects🌱
 
 Know more about me here at [ayushgupta.dev](https://ayushgupta.dev) 🚀
