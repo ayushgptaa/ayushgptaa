@@ -1,1 +1,1 @@
-Hi I'm Ayush, an averge web enjoyer🕸️
+Averge web enjoyer🕸️
